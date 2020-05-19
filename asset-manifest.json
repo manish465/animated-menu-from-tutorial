@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/animated-menu-from-tutorial/static/css/main.263c26da.chunk.css",
+    "main.js": "/animated-menu-from-tutorial/static/js/main.786946a1.chunk.js",
+    "main.js.map": "/animated-menu-from-tutorial/static/js/main.786946a1.chunk.js.map",
+    "runtime-main.js": "/animated-menu-from-tutorial/static/js/runtime-main.50872ba7.js",
+    "runtime-main.js.map": "/animated-menu-from-tutorial/static/js/runtime-main.50872ba7.js.map",
+    "static/js/2.8fb1944b.chunk.js": "/animated-menu-from-tutorial/static/js/2.8fb1944b.chunk.js",
+    "static/js/2.8fb1944b.chunk.js.map": "/animated-menu-from-tutorial/static/js/2.8fb1944b.chunk.js.map",
+    "index.html": "/animated-menu-from-tutorial/index.html",
+    "precache-manifest.62210c36ff5e3f0773d9be5d5de7b519.js": "/animated-menu-from-tutorial/precache-manifest.62210c36ff5e3f0773d9be5d5de7b519.js",
+    "service-worker.js": "/animated-menu-from-tutorial/service-worker.js",
+    "static/css/main.263c26da.chunk.css.map": "/animated-menu-from-tutorial/static/css/main.263c26da.chunk.css.map",
+    "static/js/2.8fb1944b.chunk.js.LICENSE.txt": "/animated-menu-from-tutorial/static/js/2.8fb1944b.chunk.js.LICENSE.txt",
+    "static/media/austin.webp": "/animated-menu-from-tutorial/static/media/austin.a7aadf33.webp",
+    "static/media/beijing.webp": "/animated-menu-from-tutorial/static/media/beijing.209dcd10.webp",
+    "static/media/dallas.webp": "/animated-menu-from-tutorial/static/media/dallas.2bc38187.webp",
+    "static/media/newyork.webp": "/animated-menu-from-tutorial/static/media/newyork.ebb81965.webp",
+    "static/media/sanfrancisco.webp": "/animated-menu-from-tutorial/static/media/sanfrancisco.b58ad59e.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50872ba7.js",
+    "static/js/2.8fb1944b.chunk.js",
+    "static/css/main.263c26da.chunk.css",
+    "static/js/main.786946a1.chunk.js"
+  ]
+}
